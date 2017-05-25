@@ -233,6 +233,7 @@
 				TargetAttributes = {
 					4AA6FDAA1CA0D538008C5198 = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = 9ZS47L6857;
 					};
 					4AA6FDC61CA0D538008C5198 = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -443,6 +444,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9ZS47L6857;
 				INFOPLIST_FILE = LSHVideoPlayerMaker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = LSH.LSHVideoPlayerMaker;
@@ -454,6 +456,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9ZS47L6857;
 				INFOPLIST_FILE = LSHVideoPlayerMaker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = LSH.LSHVideoPlayerMaker;
@@ -528,6 +531,7 @@
 				4AA6FDDD1CA0D538008C5198 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4AA6FDDE1CA0D538008C5198 /* Build configuration list for PBXNativeTarget "LSHVideoPlayerMakerTests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +540,7 @@
 				4AA6FDE01CA0D538008C5198 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4AA6FDE11CA0D538008C5198 /* Build configuration list for PBXNativeTarget "LSHVideoPlayerMakerUITests" */ = {
 			isa = XCConfigurationList;
@@ -544,6 +549,7 @@
 				4AA6FDE31CA0D538008C5198 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
