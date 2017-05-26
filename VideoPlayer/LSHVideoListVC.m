@@ -24,6 +24,7 @@
     [button addTarget:self action:@selector(handlePush:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:button];
     NSLog(@"hello");
+    NSLog(@"hello niu");
 }
 - (void)handlePush:(UIButton *)btn
 {
