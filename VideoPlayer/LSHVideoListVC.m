@@ -23,6 +23,7 @@
     [button setTitle:@"Play" forState:UIControlStateNormal];
     [button addTarget:self action:@selector(handlePush:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:button];
+    NSLog(@"hello");
 }
 - (void)handlePush:(UIButton *)btn
 {
