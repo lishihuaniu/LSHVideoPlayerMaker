@@ -25,6 +25,7 @@
     [self.view addSubview:button];
     NSLog(@"hello");
     NSLog(@"hello niu");
+    NSLog(@"hell0 Third");
 }
 - (void)handlePush:(UIButton *)btn
 {
